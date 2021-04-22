@@ -42,8 +42,9 @@
     <td align="center">Data for the median age at death calculated for each municipality in Allegheny County.</td>
   </tr>
   <tr>
-    <td align="center">Yves Bayubahe</td>
-    <td align="center">yvb8@pitt.edu</td>
+    <td align="center">Pittsburgh Police Arrest Data</td>
+    <td align="center">https://data.wprdc.org/dataset/arrest-data</td>
+    <td align="center">Data contains information on people taken into custody by City of Pittsburgh police officers.</td>
   </tr>
 </table>
 
@@ -55,13 +56,18 @@ Raied chose the dataset containing data on all the trees in the neighborhoods of
 
 Yves chose the dataset containing data on all the deaths based on “official” death records that have been released by the Pennsylvania Department of Health. The median age at death is calculated for each municipality in Allegheny County.
 
+Francis chose the dataset containing data on all the arrests made in Pittsburgh. More crimes result in more arrests, so by analyzing this dataset, one can determine the safest neighborhood in Pittsburgh: the neighborhood with the lowest amount of arrests is assumed to be the safest. 
+
 ## Raied's Conlcusion
 
 Looking at all the data analyze above, I have concluded that Squirrel Hill North is the best neighborhood in Pittsburgh. After Squirrel Hill South, it has the second most number of trees out of all the neighborhoods in Pittsburgh and the vast majority of them are in good or fair condition. What makes Squirrel Hill North the best neighborhood in Pittsburgh because of its trees is the fact that the trees in Squirrel Hill North provide the highest dollar value air quality, porperty value, and stormwater benefits out of the top 10 neighborhoods with the most amount of trees. 
 
 ## Francis's Conclusion
 
+According to my metric, Mt. Oliver Neighborhood is the  best neighborhood to live in.  This neighborhood has had the least amount of arrests from the past couple years out of almost 100 neighborhoods. Being safe and away from crime is  important when choosing a place to live which is why I chose this metric.  
+
 ## Yves's Conclusion
+
 In conclusion the best neighborhood by this metric is Squirrel Hill South. This has the highest median age of death which is an indicator of a healthier standard of living and prosperity. Some other close neighborhoods are North Oakland, Banksville, Point Breeze, and Squirrel Hill North.
 
 ## Team Conclusion
