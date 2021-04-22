@@ -33,12 +33,13 @@
   </tr>
   <tr>
     <td align="center">City of Pittsburgh Trees</td>
-    <td align="center">https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da</td>
-    <td align="center">Data for trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division. </td>
+    <td align="center">https://data.wprdc.org/dataset/city-trees</td>
+    <td align="center">Data for trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division.</td>
   </tr>
   <tr>
-    <td align="center">Francis Attea</td>
-    <td align="center">fja6@pitt.edu</td>
+    <td align="center">Median Age at Death</td>
+    <td align="center">https://data.wprdc.org/dataset/median-age-death/td>
+    <td align="center">Data for the median age at death calculated for each municipality in Allegheny County.</td>
   </tr>
   <tr>
     <td align="center">Yves Bayubahe</td>
@@ -51,6 +52,8 @@
 Our goal for this assignment was to analyze three different datasets and come up with metrics to determine the best neighboorhood in Pittsburgh. 
 
 Raied chose the dataset containing data on all the trees in the neighborhoods of Pittsburgh. With this dataset, he was able to analyze the quality of the trees in each neighborhood and the values of the various benefits the trees provide in each neighborhood.
+
+Yves chose the dataset containing data on all the deaths based on “official” death records that have been released by the Pennsylvania Department of Health. The median age at death is calculated for each municipality in Allegheny County.
 
 ## Raied's Conlcusion
 
