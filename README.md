@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="center">Median Age at Death</td>
-    <td align="center">https://data.wprdc.org/dataset/median-age-death/td>
+    <td align="center">https://data.wprdc.org/dataset/median-age-death</td>
     <td align="center">Data for the median age at death calculated for each municipality in Allegheny County.</td>
   </tr>
   <tr>
