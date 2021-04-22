@@ -59,5 +59,6 @@ Looking at all the data analyze above, I have concluded that Squirrel Hill North
 ## Francis's Conclusion
 
 ## Yves's Conclusion
+In conclusion the best neighborhood by this metric is Squirrel Hill South. This has the highest median age of death which is an indicator of a healthier standard of living and prosperity. Some other close neighborhoods are North Oakland, Banksville, Point Breeze, and Squirrel Hill North.
 
 ## Team Conclusion
