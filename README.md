@@ -44,7 +44,7 @@
   <tr>
     <td align="center">Pittsburgh Police Arrest Data</td>
     <td align="center">https://data.wprdc.org/dataset/arrest-data</td>
-    <td align="center">Data contains information on people taken into custody by City of Pittsburgh police officers.</td>
+    <td align="center">Data for the arrests made by the City of Pittsburgh police officers.</td>
   </tr>
 </table>
 
