@@ -67,6 +67,10 @@ Looking at all the data analyze above, I have concluded that Squirrel Hill North
 According to my metric, Mt. Oliver Neighborhood is the  best neighborhood to live in.  This neighborhood has had the least amount of arrests from the past couple years out of almost 100 neighborhoods. Being safe and away from crime is  important when choosing a place to live which is why I chose this metric.  
 
 ## Yves's Conclusion
+The metric data was from the official death records released by the Pennsylvania Department of Health. 
+And it’s actually broken down by race either white and black. 
+It was congruent with Raied data as squirrel hill south is between botanical gardens Schenley  and a major cemetery less urban more green areas are subject to less pollutants and inclusive to high quality of life. 
+
 
 In conclusion the best neighborhood by this metric is Squirrel Hill South. This has the highest median age of death which is an indicator of a healthier standard of living and prosperity. Some other close neighborhoods are North Oakland, Banksville, Point Breeze, and Squirrel Hill North.
 
